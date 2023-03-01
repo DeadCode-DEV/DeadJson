@@ -1,0 +1,11 @@
+{
+  "number": 15,
+  "string": "sadfasd",
+  "bollean": true,
+  "arra": [
+    "sdfasdf"
+  ],
+  "obj": {
+    "sdf": "fdsf"
+  }
+}
